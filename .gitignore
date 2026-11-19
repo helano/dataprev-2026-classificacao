@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de texto intermediários (opcional — descomente se não quiser versioná-los)
+# edital.txt
+# resultado.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
